@@ -16,11 +16,6 @@
 - Turnkey electrical & substation projects
 - Right-of-Way (RoW) management
 
-## What's in this organisation
-
-| Repository | Purpose |
-|---|---|
-| `tender-intelligence-system` *(private)* | In-house Tender Intelligence System — daily automated scraping of published & won (AOC) tenders from NIC state portals, GeM and POWERGRID into one dashboard, with a calendar view, source-health monitoring, Telegram alerts and an Excel export mirroring the bid team's tracker. Data ready every morning at 9:00 AM IST. |
 
 ## Contact
 

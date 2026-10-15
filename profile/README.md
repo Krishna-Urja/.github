@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Krishna Urja Constructions LLP" width="420">
-</p>
+
 
 <h1 align="center">Krishna Urja Constructions LLP</h1>
 
